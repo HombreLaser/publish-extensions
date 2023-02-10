@@ -1454,5 +1454,8 @@
   },
   "zxh404.vscode-proto3": {
     "repository": "https://github.com/zxh0/vscode-proto3"
+  },
+  "ruby.vscode-rdbg": {
+    "repository": "https://github.com/ruby/vscode-rdbg"
   }
 }
